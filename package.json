@@ -1,0 +1,22 @@
+{
+  "name": "project-assignment-3-profiles.moderndeveloper-sidebar",
+  "version": "1.0.0",
+  "description": "For this Project Assignment, I use HTML and CSS to customize an informative profile card to be used on the profiles.moderndeveloper.com website.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snagy22000/project-assignment-3-profiles.moderndeveloper-sidebar.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snagy22000/project-assignment-3-profiles.moderndeveloper-sidebar/issues"
+  },
+  "homepage": "https://github.com/snagy22000/project-assignment-3-profiles.moderndeveloper-sidebar#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.8"
+  }
+}
